@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madhan kumar</h1>
-<h3 align="center">Developer Relations | AWS | Serverless | Cloud | Python </h3>
+<h3 align="center">Cloud Architect & Linux Administrator | AWS | Serverless | Cloud | Python </h3>
 
 <!-- - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
