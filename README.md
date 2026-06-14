@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mk-201861185" target="blank"><img align="center" src="https://raw.githubusercontent.com/madhankumar866/madhankumar866/main/Assets/icons/logos/linked-in-alt.svg" alt="mk" height="30" width="40" /></a>
-<a href="https://www.instagram.com/madhankumar866" target="blank"><img align="center" src="https://raw.githubusercontent.com/madhankumar866/madhankumar866/main/Assets/icons/logos/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://www.instagram.com/madhansaba.r" target="blank"><img align="center" src="https://raw.githubusercontent.com/madhankumar866/madhankumar866/main/Assets/icons/logos/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Skills:</h3>
